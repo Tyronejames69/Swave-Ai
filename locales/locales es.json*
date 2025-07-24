@@ -1,1 +1,7 @@
-
+{
+  "login": {
+    "username": "Usuario",
+    "password": "Contraseña",
+    "loginBtn": "Iniciar sesión"
+  }
+}
